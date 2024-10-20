@@ -140,7 +140,7 @@ This guide covers the following topics:
 ---
 **Day 5** serves as an exciting bridge between theory and user interaction, concluding our discussions on user profiles, query handling, and preparations for PostgreSQL.
 
-As we conclude Day 5, we are now ready to roll up our sleeves and jump into action in **Day 6** by building an automated pipeline with a Python script for effortless data import!
 
+As we conclude Day 5, we are now ready to roll up our sleeves and jump into action in **Day 6** by building an automated pipeline with a Python script for effortless data import! For more details, check out the [Ingestion Pipeline](../6-ingestion-pipeline/ingestion-pipeline.md).
 
 
